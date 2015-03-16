@@ -1,0 +1,178 @@
+-- The C compiler identification is GNU 4.8.2
+-- The CXX compiler identification is GNU 4.8.2
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.26") 
+-- checking for module 'gsl'
+--   found gsl, version 1.16
+-- checking for module 'eigen3'
+--   found eigen3, version 3.2.0
+/home/anmol/JdeRobot/src/stable/libs/colorspaces
+/home/anmol/JdeRobot/src/stable/libs/jderobotutil
+/home/anmol/JdeRobot/src/stable/libs/progeo
+/home/anmol/JdeRobot/src/stable/libs/pioneer
+/home/anmol/JdeRobot/src/stable/libs/fuzzylib
+/home/anmol/JdeRobot/src/stable/libs/visionlib
+/home/anmol/JdeRobot/src/stable/libs/parallelIce
+*** GAZEBO LIBRARIES NOT FOUND
+*** Fireware ok
+ with_pcl PCL LIBRARY FOUND IN with_pcl-NOTFOUND
+*** PCL libraries not found. Are needed to KinectServer component
+*** OpenNi not found
+*** Nite not found
+*** Xerces ok
+/usr/include/libxml2
+*** ICE ok
+*** CWIID LIBRARIES NOT FOUND. Needed to wiimoteServer
+OpenCVHighGui was found in: /usr/include/opencv
+OpenCV was found in: /usr/include/opencv
+-- Found GLUT: /usr/lib/x86_64-linux-gnu/libglut.so  
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for IceConnectionNumber in ICE
+-- Looking for IceConnectionNumber in ICE - found
+-- Found X11: /usr/lib/x86_64-linux-gnu/libX11.so
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libGL.so  
+OpenGL libraries found at /usr/lib/x86_64-linux-gnu/libglut.so;/usr/lib/x86_64-linux-gnu/libXmu.so;/usr/lib/x86_64-linux-gnu/libXi.so
+OpenNI2 library not found
+NITE2 library not found
+-- Looking for include file pthread.h
+-- Looking for include file pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- checking for module 'libxml++-2.6'
+--   found libxml++-2.6, version 2.36.0
+Libxml++ libraries found at 
+*** LIBXML2 ok
+-- Boost version: 1.54.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+*** ALUT not found
+*** LIBTINYXML ok
+-- checking for module 'gtk+-2.0'
+--   found gtk+-2.0, version 2.24.23
+-- checking for module 'gtkgl-2.0'
+--   found gtkgl-2.0, version 2.0.1
+-- checking for module 'gtkmm-2.4'
+--   found gtkmm-2.4, version 2.24.4
+-- checking for module 'libglademm-2.4'
+--   found libglademm-2.4, version 2.6.7
+-- checking for module 'gthread-2.0'
+--   found gthread-2.0, version 2.40.2
+-- checking for module 'libgnomecanvas-2.0'
+--   found libgnomecanvas-2.0, version 2.30.3
+-- checking for module 'libgnomecanvasmm-2.6'
+--   found libgnomecanvasmm-2.6, version 2.26.0
+-- checking for module 'gtkglextmm-1.2'
+--   found gtkglextmm-1.2, version 1.2.0
+-- Looking for Q_WS_X11
+-- Looking for Q_WS_X11 - found
+-- Looking for Q_WS_WIN
+-- Looking for Q_WS_WIN - not found
+-- Looking for Q_WS_QWS
+-- Looking for Q_WS_QWS - not found
+-- Looking for Q_WS_MAC
+-- Looking for Q_WS_MAC - not found
+-- Found Qt4: /usr/bin/qmake (found version "4.8.6") 
+*** QT LIBRARIES Found LIBRARIES FOUND
+*** Goocanvasmm LIBRARIES NOT FOUND
+ kobuki_LIBRARIES 
+*** kobuki not found
+*** libusb FOUND
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/pose3dencoders_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/ptencoders_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/laser_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/genericData_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/bodymovements_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/pose3dmotors_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/image_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/kinectleds_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/pose3d_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/jointmotor_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/common_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/remoteConfig_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/bodymotors_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/wiimote_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/camera_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/motors_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/varcolor_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/ptmotors_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/body_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/containers_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/datetime_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/replayControl_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/exceptions_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/bodyencoders_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/naofollowball_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/sonars_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/recorder_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/remoteCloud_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/pointcloud_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/jcm_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/namingService_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/naomotions_ice.py': No such file or directory
+/usr/bin/slice2py: error: cannot open`/home/anmol/JdeRobot/src/stable/interfaces/slice/jderobot/../../python/jderobot/encoders_ice.py': No such file or directory
+-- Creating CPP interfaces
+-- Boost version: 1.54.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Performing Test COMPILER_SUPPORTS_CXX11
+-- Performing Test COMPILER_SUPPORTS_CXX11 - Success
+-- Performing Test COMPILER_SUPPORTS_CXX0X
+-- Performing Test COMPILER_SUPPORTS_CXX0X - Success
+version:4.8.2
+-- Processing component basic_server
+-- Processing component teleoperator
+-- Processing component followBall
+-- Processing component introrob_qt
+-- Processing component kobuki_driver
+-- Processing component gazeboserver
+-- Processing component recorder
+-- Processing component opencvdemo
+-- Processing component cameraserver
+-- Processing component rgbdCalibrator
+-- Processing component introrob
+-- Processing component cameraview
+-- Processing component namingService
+-- Processing component remoteConfiguration
+-- Processing component rgbdManualCalibrator
+-- Processing component replayController
+-- Processing component giraffeClient
+-- Processing component replayer
+-- Processing component basic_component_qt
+-- Processing component cameraview_icestorm
+-- Processing component naoviewer
+-- Processing component visualHFSM
+-- Processing component naoserver
+-- Processing component icestorm
+-- Processing component openni1Server
+-- Processing component openniServer
+-- Processing component colorTuner
+-- Processing component pclRGBDServer
+-- Processing component basic_component
+-- Processing component giraffeServer
+-- Processing component rgbdViewer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/anmol/JdeRobot

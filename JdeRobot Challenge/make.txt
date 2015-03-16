@@ -1,0 +1,127 @@
+[  0%] Generating encoders.cpp, encoders.h
+[  0%] Generating pose3dencoders.cpp, pose3dencoders.h
+[  0%] Generating ptencoders.cpp, ptencoders.h
+[  1%] Generating laser.cpp, laser.h
+[  1%] Generating genericData.cpp, genericData.h
+[  1%] Generating bodymovements.cpp, bodymovements.h
+[  2%] Generating pose3dmotors.cpp, pose3dmotors.h
+[  2%] Generating image.cpp, image.h
+[  3%] Generating kinectleds.cpp, kinectleds.h
+[  3%] Generating pose3d.cpp, pose3d.h
+[  3%] Generating jointmotor.cpp, jointmotor.h
+[  4%] Generating common.cpp, common.h
+[  4%] Generating remoteConfig.cpp, remoteConfig.h
+[  4%] Generating bodymotors.cpp, bodymotors.h
+[  5%] Generating wiimote.cpp, wiimote.h
+[  5%] Generating camera.cpp, camera.h
+[  6%] Generating motors.cpp, motors.h
+[  6%] Generating varcolor.cpp, varcolor.h
+[  6%] Generating ptmotors.cpp, ptmotors.h
+[  7%] Generating body.cpp, body.h
+[  7%] Generating containers.cpp, containers.h
+[  8%] Generating datetime.cpp, datetime.h
+[  8%] Generating replayControl.cpp, replayControl.h
+[  8%] Generating exceptions.cpp, exceptions.h
+[  9%] Generating bodyencoders.cpp, bodyencoders.h
+[  9%] Generating naofollowball.cpp, naofollowball.h
+[  9%] Generating sonars.cpp, sonars.h
+[ 10%] Generating recorder.cpp, recorder.h
+[ 10%] Generating remoteCloud.cpp, remoteCloud.h
+[ 11%] Generating pointcloud.cpp, pointcloud.h
+[ 11%] Generating jcm.cpp, jcm.h
+[ 11%] Generating namingService.cpp, namingService.h
+[ 12%] Generating naomotions.cpp, naomotions.h
+Scanning dependencies of target JderobotInterfaces
+[ 13%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/pose3dencoders.cpp.o
+[ 13%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/ptencoders.cpp.o
+[ 13%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/laser.cpp.o
+[ 14%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/genericData.cpp.o
+[ 14%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/bodymovements.cpp.o
+[ 14%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/pose3dmotors.cpp.o
+[ 15%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/image.cpp.o
+[ 15%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/kinectleds.cpp.o
+[ 16%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/pose3d.cpp.o
+[ 16%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/jointmotor.cpp.o
+[ 16%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/common.cpp.o
+[ 17%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/remoteConfig.cpp.o
+[ 17%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/bodymotors.cpp.o
+[ 18%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/wiimote.cpp.o
+[ 18%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/camera.cpp.o
+[ 18%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/motors.cpp.o
+[ 19%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/varcolor.cpp.o
+[ 19%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/ptmotors.cpp.o
+[ 19%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/body.cpp.o
+[ 20%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/containers.cpp.o
+[ 20%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/datetime.cpp.o
+[ 21%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/replayControl.cpp.o
+[ 21%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/exceptions.cpp.o
+[ 21%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/bodyencoders.cpp.o
+[ 22%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/naofollowball.cpp.o
+[ 22%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/sonars.cpp.o
+[ 22%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/recorder.cpp.o
+[ 23%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/remoteCloud.cpp.o
+[ 23%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/pointcloud.cpp.o
+[ 24%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/jcm.cpp.o
+[ 24%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/namingService.cpp.o
+[ 24%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/naomotions.cpp.o
+[ 25%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/encoders.cpp.o
+Linking CXX shared library libJderobotInterfaces.so
+[ 25%] Built target JderobotInterfaces
+Scanning dependencies of target colorspaces
+[ 25%] Building C object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspaces.dir/rgb2hsv.c.o
+[ 26%] Building C object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspaces.dir/rgb2yuv.c.o
+Linking C static library libcolorspaces.a
+[ 26%] Built target colorspaces
+Scanning dependencies of target colorspacesmm
+[ 26%] Building CXX object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspacesmm.dir/imagecv.cpp.o
+Linking CXX static library libcolorspacesmm.a
+[ 26%] Built target colorspacesmm
+Scanning dependencies of target colorspacesmmshare
+[ 27%] Building CXX object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspacesmmshare.dir/imagecv.cpp.o
+[ 25%] Built target JderobotInterfaces
+[ 26%] Built target colorspaces
+[ 26%] Built target colorspacesmm
+[ 27%] Built target colorspacesmmshare
+[ 27%] Built target colorspacesshare
+[ 28%] Built target progeo
+[ 28%] Built target cvfast
+[ 29%] Built target imgAnalyze
+[ 32%] Built target cvblob
+[ 32%] Built target logger
+[ 33%] Built target parallelIce
+[ 35%] Built target parallelIceshare
+[ 35%] Built target ns
+[ 36%] Built target fuzzylib
+[ 36%] Built target fuzzyshare
+[ 43%] Built target geometry
+[ 44%] Built target jderobotutil
+[ 45%] Built target jderobotutilshare
+[ 46%] Built target xmlParser
+[ 47%] Built target xmlParsershare
+[ 47%] Built target pioneer
+[ 47%] Built target pioneershare
+[ 48%] Built target depthLib
+[ 48%] Built target depthLibshare
+[ 48%] Built target progeoshare
+[ 49%] Built target basic_server
+[ 51%] Built target teleoperatorPC
+[ 53%] Built target followball
+[ 71%] Built target introrob_qt
+[ 74%] Built target recorder
+[ 75%] Built target opencvdemo
+[ 76%] Built target cameraserver
+[ 77%] Built target rgbdCalibrator
+[ 80%] Built target introrob
+[ 80%] Built target cameraview
+[ 81%] Built target namingService
+[ 82%] Built target remoteConfiguration
+[ 84%] Built target rgbdManualCalibrator
+[ 85%] Built target replayController
+[ 87%] Built target giraffeClient
+[ 88%] Built target replayer
+[ 91%] Built target basic_component_qt
+[ 92%] Built target cameraview_icestorm
+[ 93%] Built target colorTuner
+[ 95%] Built target basic_component
+[ 99%] Built target giraffeServer
+[100%] Built target rgbdViewer
